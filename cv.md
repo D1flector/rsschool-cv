@@ -43,3 +43,6 @@
         * Hexlet: Basics of modern layout, Basics of HTML, CSS and Web Design
         * Sololearn: Introduction to Javascript
         ![Certificate](https://api2.sololearn.com/v2/certificates/CC-KDZBVNCY/image/jpg)
+***
+8. English:
+    > A2(B1 in process)
